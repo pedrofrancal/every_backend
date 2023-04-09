@@ -1,0 +1,8 @@
+Flask==2.2.3
+Flask-SQLAlchemy
+pyodbc
+python-dotenv==1.0.0
+gunicorn==20.1.0
+pytest
+pytest-flask
+flask-restplus
